@@ -18,7 +18,7 @@
 	 <connection>scm:git:git@github.com:robsantoro/app5.git</connection>
     <developerConnection>scm:git:git@github.com:robsantoro/app5.git</developerConnection>
     <tag>HEAD</tag>
-	<url>https://github.com/robsantoro/app5</url>
+	<url>scm:git:git@github.com:robsantoro/app5.git</url>
   </scm>
   <build>
 		<plugins>
