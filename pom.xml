@@ -15,10 +15,10 @@
     </dependency>
   </dependencies>
   <scm>
-	 <connection>scm:git:git@github.com:robsantoro/app5.git</connection>
-    <developerConnection>scm:git:git@github.com:robsantoro/app5.git</developerConnection>
+	 <connection>scm:git:robsantoro@github.com:robsantoro/app5.git</connection>
+    <developerConnection>scm:git:robsantoro@github.com:robsantoro/app5.git</developerConnection>
     <tag>HEAD</tag>
-	<url>scm:git:git@github.com:robsantoro/app5.git</url>
+	<url>scm:git:robsantoro@github.com:robsantoro/app5.git</url>
   </scm>
   <build>
 		<plugins>
